@@ -1,0 +1,6 @@
+setuptools
+jupyter
+pandas
+pytest
+scikit-learn
+imblearn
